@@ -1,3 +1,3 @@
-# Portfolio-Project---Data-Cleaning
+# Portfolio-Project---Data-Cleaning. This is to show my thought process and showing queries on this project
 
-# Showing my thought process on Data Cleaning in SQL
+
